@@ -9,6 +9,8 @@ sites:
     url: https://forum.martinistam.nl
   - name: Admin panel
     url: https://admin.martinistam.nl
+  - name: Agenda Sync
+    url: https://agendasync.martinistam.nl
   - name: File Browser
     url: https://admin.martinistam.nl/files
   - name: Portainer
