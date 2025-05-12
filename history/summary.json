@@ -58,19 +58,19 @@
     "url": "https://agendasync.martinistam.nl",
     "icon": "https://icons.duckduckgo.com/ip3/agendasync.martinistam.nl.ico",
     "slug": "agenda-sync",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 517,
-    "timeWeek": 519,
-    "timeMonth": 530,
-    "timeYear": 530,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 538,
+    "timeDay": 556,
+    "timeWeek": 532,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-05-12": 0
+      "2025-05-12": 16
     }
   },
   {
