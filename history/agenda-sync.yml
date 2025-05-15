@@ -1,7 +1,7 @@
 url: https://agendasync.martinistam.nl
-status: up
-code: 200
-responseTime: 515
-lastUpdated: 2025-05-15T23:19:51.209Z
+status: down
+code: 502
+responseTime: 387
+lastUpdated: 2025-05-15T23:28:58.117Z
 startTime: 2025-05-02T03:28:04.918Z
 generator: Upptime <https://github.com/upptime/upptime>
