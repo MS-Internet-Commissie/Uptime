@@ -4,18 +4,20 @@
     "url": "https://martinistam.nl",
     "icon": "https://icons.duckduckgo.com/ip3/martinistam.nl.ico",
     "slug": "wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1340,
     "timeDay": 9401,
     "timeWeek": 3592,
     "timeMonth": 1613,
     "timeYear": 1340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-17": 3
+    }
   },
   {
     "name": "Forum",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.martinistam.nl.ico",
     "slug": "forum",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.91%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.91%",
     "time": 1078,
     "timeDay": 1244,
     "timeWeek": 1028,
     "timeMonth": 1088,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2025-05-17": 37
+      "2025-05-17": 53
     }
   },
   {
@@ -42,11 +44,11 @@
     "url": "https://admin.martinistam.nl",
     "icon": "https://icons.duckduckgo.com/ip3/admin.martinistam.nl.ico",
     "slug": "admin-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 549,
     "timeDay": 664,
@@ -54,7 +56,7 @@
     "timeMonth": 556,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-05-17": 36
+      "2025-05-17": 38
     }
   },
   {
@@ -62,10 +64,10 @@
     "url": "https://agendasync.martinistam.nl",
     "icon": "https://icons.duckduckgo.com/ip3/agendasync.martinistam.nl.ico",
     "slug": "agenda-sync",
-    "status": "up",
+    "status": "down",
     "uptime": "90.76%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "79.55%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "79.53%",
     "uptimeMonth": "90.76%",
     "uptimeYear": "90.76%",
     "time": 576,
@@ -74,7 +76,7 @@
     "timeMonth": 576,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-05-17": 35,
+      "2025-05-17": 36,
       "2025-05-16": 621,
       "2025-05-15": 31,
       "2025-05-14": 1053,
@@ -87,11 +89,11 @@
     "url": "https://admin.martinistam.nl/files",
     "icon": "https://icons.duckduckgo.com/ip3/admin.martinistam.nl.ico",
     "slug": "file-browser",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 250,
     "timeDay": 337,
@@ -99,7 +101,7 @@
     "timeMonth": 248,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-05-17": 24
+      "2025-05-17": 25
     }
   },
   {
@@ -107,7 +109,7 @@
     "url": "https://admin.martinistam.nl/portainer",
     "icon": "https://icons.duckduckgo.com/ip3/admin.martinistam.nl.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "98.40%",
     "uptimeWeek": "99.77%",
