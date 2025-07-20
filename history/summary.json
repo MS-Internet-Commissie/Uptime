@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 967,
-    "timeDay": 804,
-    "timeWeek": 710,
-    "timeMonth": 649,
-    "timeYear": 967,
+    "time": 962,
+    "timeDay": 504,
+    "timeWeek": 666,
+    "timeMonth": 639,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2025-05-17": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 923,
-    "timeDay": 950,
-    "timeWeek": 990,
+    "time": 921,
+    "timeDay": 739,
+    "timeWeek": 868,
     "timeMonth": 843,
-    "timeYear": 923,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2025-05-17": 160
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 526,
-    "timeDay": 641,
-    "timeWeek": 544,
-    "timeMonth": 502,
-    "timeYear": 526,
+    "time": 525,
+    "timeDay": 423,
+    "timeWeek": 516,
+    "timeMonth": 496,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2025-05-17": 36
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/agendasync.martinistam.nl.ico",
     "slug": "agenda-sync",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.12%",
-    "time": 486,
-    "timeDay": 524,
-    "timeWeek": 459,
-    "timeMonth": 443,
-    "timeYear": 486,
+    "uptimeYear": "98.15%",
+    "time": 485,
+    "timeDay": 331,
+    "timeWeek": 434,
+    "timeMonth": 438,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2025-05-30": 25,
       "2025-05-17": 53,
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 244,
-    "timeDay": 337,
-    "timeWeek": 274,
-    "timeMonth": 238,
-    "timeYear": 244,
+    "time": 243,
+    "timeDay": 200,
+    "timeWeek": 259,
+    "timeMonth": 235,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2025-05-17": 42
     }
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 291,
-    "timeDay": 416,
-    "timeWeek": 345,
-    "timeMonth": 275,
-    "timeYear": 291,
+    "time": 290,
+    "timeDay": 222,
+    "timeWeek": 310,
+    "timeMonth": 272,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2025-05-17": 23
     }
@@ -137,8 +137,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 3,
-    "timeWeek": 3,
+    "timeDay": 7,
+    "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {}
