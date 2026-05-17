@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 852,
-    "timeDay": 982,
-    "timeWeek": 976,
-    "timeMonth": 918,
-    "timeYear": 858,
+    "time": 851,
+    "timeDay": 646,
+    "timeWeek": 937,
+    "timeMonth": 914,
+    "timeYear": 857,
     "dailyMinutesDown": {
-      "2025-09-20": 28,
-      "2025-05-17": 18
+      "2025-09-20": 28
     }
   },
   {
@@ -31,15 +30,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 785,
-    "timeDay": 743,
-    "timeWeek": 687,
-    "timeMonth": 630,
-    "timeYear": 750,
+    "time": 784,
+    "timeDay": 721,
+    "timeWeek": 708,
+    "timeMonth": 636,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2025-09-20": 65,
-      "2025-07-21": 18,
-      "2025-05-17": 160
+      "2025-07-21": 18
     }
   },
   {
@@ -54,13 +52,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 540,
-    "timeDay": 618,
-    "timeWeek": 468,
-    "timeMonth": 514,
-    "timeYear": 540,
+    "timeDay": 376,
+    "timeWeek": 444,
+    "timeMonth": 510,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2025-09-20": 27,
-      "2025-05-17": 36
+      "2025-09-20": 27
     }
   },
   {
@@ -73,12 +70,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.77%",
     "time": 489,
-    "timeDay": 734,
-    "timeWeek": 569,
-    "timeMonth": 520,
-    "timeYear": 486,
+    "timeDay": 427,
+    "timeWeek": 563,
+    "timeMonth": 519,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2026-03-19": 228,
       "2026-03-14": 177,
@@ -87,8 +84,7 @@
       "2025-09-20": 127,
       "2025-09-14": 89,
       "2025-09-11": 35,
-      "2025-05-30": 25,
-      "2025-05-17": 53
+      "2025-05-30": 25
     }
   },
   {
@@ -102,14 +98,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 264,
-    "timeDay": 985,
-    "timeWeek": 774,
-    "timeMonth": 444,
-    "timeYear": 267,
-    "dailyMinutesDown": {
-      "2025-05-17": 42
-    }
+    "time": 265,
+    "timeDay": 636,
+    "timeWeek": 745,
+    "timeMonth": 457,
+    "timeYear": 268,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portainer",
@@ -122,14 +116,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 1395,
-    "timeWeek": 1009,
-    "timeMonth": 579,
-    "timeYear": 326,
-    "dailyMinutesDown": {
-      "2025-05-17": 23
-    }
+    "time": 324,
+    "timeDay": 910,
+    "timeWeek": 995,
+    "timeMonth": 600,
+    "timeYear": 327,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mailgun",
@@ -143,8 +135,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 9,
-    "timeWeek": 9,
+    "timeDay": 2,
+    "timeWeek": 7,
     "timeMonth": 9,
     "timeYear": 6,
     "dailyMinutesDown": {}
