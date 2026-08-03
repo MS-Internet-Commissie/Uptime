@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 920,
     "timeDay": 1715,
-    "timeWeek": 1345,
-    "timeMonth": 1418,
+    "timeWeek": 1366,
+    "timeMonth": 1427,
     "timeYear": 920,
     "dailyMinutesDown": {
       "2025-09-20": 28
@@ -24,19 +24,20 @@
     "url": "https://forum.martinistam.nl",
     "icon": "https://icons.duckduckgo.com/ip3/forum.martinistam.nl.ico",
     "slug": "forum",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 830,
-    "timeDay": 328,
-    "timeWeek": 1014,
-    "timeMonth": 1205,
-    "timeYear": 803,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
+    "time": 837,
+    "timeDay": 2301,
+    "timeWeek": 1410,
+    "timeMonth": 1316,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2025-09-20": 65,
+      "2026-08-03": 72,
       "2026-08-02": 0
     }
   },
@@ -53,8 +54,8 @@
     "uptimeYear": "99.99%",
     "time": 548,
     "timeDay": 552,
-    "timeWeek": 1126,
-    "timeMonth": 702,
+    "timeWeek": 1201,
+    "timeMonth": 712,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2025-09-20": 27
@@ -73,8 +74,8 @@
     "uptimeYear": "99.78%",
     "time": 517,
     "timeDay": 728,
-    "timeWeek": 671,
-    "timeMonth": 675,
+    "timeWeek": 693,
+    "timeMonth": 681,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2025-09-11": 35,
@@ -99,8 +100,8 @@
     "uptimeYear": "100.00%",
     "time": 357,
     "timeDay": 859,
-    "timeWeek": 989,
-    "timeMonth": 889,
+    "timeWeek": 988,
+    "timeMonth": 897,
     "timeYear": 398,
     "dailyMinutesDown": {}
   },
@@ -117,8 +118,8 @@
     "uptimeYear": "100.00%",
     "time": 447,
     "timeDay": 1342,
-    "timeWeek": 1305,
-    "timeMonth": 1163,
+    "timeWeek": 1304,
+    "timeMonth": 1174,
     "timeYear": 503,
     "dailyMinutesDown": {}
   },
@@ -136,7 +137,7 @@
     "time": 6,
     "timeDay": 25,
     "timeWeek": 10,
-    "timeMonth": 10,
+    "timeMonth": 11,
     "timeYear": 6,
     "dailyMinutesDown": {}
   }
