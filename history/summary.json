@@ -61,16 +61,16 @@
     "url": "https://agendasync.martinistam.nl",
     "icon": "https://icons.duckduckgo.com/ip3/agendasync.martinistam.nl.ico",
     "slug": "agenda-sync",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 544,
-    "timeDay": 464,
-    "timeWeek": 478,
-    "timeMonth": 626,
+    "timeDay": 440,
+    "timeWeek": 470,
+    "timeMonth": 619,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2026-02-17": 213,
@@ -79,7 +79,8 @@
       "2026-09-02": 547,
       "2026-09-01": 672,
       "2026-09-09": 125,
-      "2026-09-13": 188
+      "2026-09-13": 188,
+      "2026-10-23": 0
     }
   },
   {
